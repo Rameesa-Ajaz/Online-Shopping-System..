@@ -1,2 +1,7 @@
 # Online-Shopping-System..
-Create an event management system to help organizations plan and manage events, including conferences, workshops, and seminars. Implement classes for events, attendees, venues, and schedules. Utilize concepts such as constructors, member functions, access modifiers, and inheritance.
+Create an online shopping system where users can browse
+products, add them to cart, and place orders. Implement
+classes for products, users, shopping cart, and orders. Use
+concepts such as classes & objects, member functions,
+access modifiers, and constructors.
+
